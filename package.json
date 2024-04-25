@@ -1,0 +1,11 @@
+{
+  "name": "freelance-web-developer-portfolio-template-main",
+  "version": "1.0.0",
+  "description": "<h1 style=\"color: #F26C4F; text-align: center; padding: 20px 0\"> Freelance Web Developer Portfolio Template ✨</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
